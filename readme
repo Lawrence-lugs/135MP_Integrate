@@ -1,0 +1,5 @@
+Hello!
+
+Currently, parse.py has to be called as follows:
+
+python3 parse.py --a [start] --b [end] --n [divisions]
