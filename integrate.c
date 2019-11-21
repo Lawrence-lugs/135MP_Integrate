@@ -4,6 +4,7 @@
 #include <pthread.h>
 
 //hello
+//hello for commit2
 
 float *elements;
 int nelements;
